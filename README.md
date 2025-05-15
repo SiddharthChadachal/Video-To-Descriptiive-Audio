@@ -1,4 +1,4 @@
-# 🎬 Video Description Generator with Emotion & Audio Narration
+# 🎬 VOXVISION - Video Description Generator with Emotion & Audio Narration
 
 This project automatically transforms a video into an enriched audiovisual experience by detecting scenes, identifying objects, generating captions, analyzing emotions, and inserting descriptive audio narrations at relevant timestamps. It's especially useful for accessibility applications (e.g., aiding visually impaired viewers) or creating automated content summaries.
 
