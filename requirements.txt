@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+transformers
+gtts
+opencv-python
+scenedetect
+yt-dlp @ git+https://github.com/yt-dlp/yt-dlp.git
+parler-tts @ git+https://github.com/parler-tts/parler-tts.git
+transformers
+deepface
+ultralytics
+moviepy
+pydub
